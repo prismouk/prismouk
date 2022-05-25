@@ -1,5 +1,3 @@
-<img src = 'https://media3.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47ka3xann5szyj8cygkr0nucowbaz0t8w4ietji0i1&rid=giphy.gif&ct=g' alt = 'Awesome Matrix Code' align='right'/>
-
 ![Monero](https://img.shields.io/badge/-monero-333333?style=flat&logo=monero&logoColor=007ACC)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=Ethereum&logoColor=007ACC)
 
